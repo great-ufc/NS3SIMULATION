@@ -1,3 +1,5 @@
+Autor: Evilasio Costa Junior
+
 >>Pré condição<<
 
 Ter o simulador ns3 no computador previamente configurado
